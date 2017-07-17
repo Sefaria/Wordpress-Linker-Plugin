@@ -9,6 +9,6 @@ A Wordpress plugin to easily deploy [Sefaria's Auto Linker](https://github.com/S
 ## Usage
 This plugin should work out of the box and allow you full access to the features of [Sefaria's Auto Linker](https://github.com/Sefaria/Sefaria-Project/wiki/Sefaria-Auto-Linker)
 
-Options for linker (including its mode, and CSS styles for the pop-up box) can be added via the Settings page for the plugin in the Wordpress admin dashboard.
+Options for linker (including its mode, and CSS styles for the pop-up box _*Coming soon*_) can be added via the Settings page for the plugin in the Wordpress admin dashboard.
 
 
